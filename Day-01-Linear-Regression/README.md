@@ -10,6 +10,6 @@ Workflow :
 3. Trained Linear Regression model.
 4. Predicted prices for new areas.
 
-Model Equation
+Model Equation :
 price = m × area + b
 
